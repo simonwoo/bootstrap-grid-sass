@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-grid-sass",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-sass": "~1.0.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "load-grunt-tasks": "3.5.0"
+  }
+}
